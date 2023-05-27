@@ -18,6 +18,7 @@
 -
 
 ## frameworks & softwares
+- Apache Hadoop
 
 ## Databases
 
