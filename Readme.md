@@ -32,7 +32,7 @@
 - Snow
 - opensearch
 - Glue
-- Lamda
+- [Lamda](https://medium.com/edureka/aws-lambda-tutorial-cadd47fbd39b)
 - Redshift
 - lamda
 - Ebs
