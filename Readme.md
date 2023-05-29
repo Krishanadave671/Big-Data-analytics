@@ -27,16 +27,17 @@
 
 ## AWS Services
 - [EC2](https://medium.com/edureka/aws-ec2-tutorial-16583cc7798e)
+- [Ebs](https://medium.com/edureka/aws-elastic-beanstalk-647ae1d35e2)
+- [S3](https://medium.com/edureka/s3-aws-amazon-simple-storage-service-aa71c664b465)
+- [lamda](https://medium.com/edureka/aws-lambda-tutorial-cadd47fbd39b)
+- [RDS](https://medium.com/edureka/rds-aws-tutorial-for-aws-solution-architects-eec7217774dd)
 - EMR
 - Kinesis
 - Snow
-- [S3](https://medium.com/edureka/s3-aws-amazon-simple-storage-service-aa71c664b465)
 - opensearch
 - Glue
-- [Lamda](https://medium.com/edureka/aws-lambda-tutorial-cadd47fbd39b)
 - Redshift
-- lamda
-- [Ebs](https://medium.com/edureka/aws-elastic-beanstalk-647ae1d35e2)
+
 
 ## Documentations/Resources/Books
 
