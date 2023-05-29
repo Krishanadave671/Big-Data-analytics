@@ -35,7 +35,7 @@
 - [Lamda](https://medium.com/edureka/aws-lambda-tutorial-cadd47fbd39b)
 - Redshift
 - lamda
-- Ebs
+- [Ebs](https://medium.com/edureka/aws-elastic-beanstalk-647ae1d35e2)
 
 ## Documentations/Resources/Books
 
