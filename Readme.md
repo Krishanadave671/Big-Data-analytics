@@ -21,8 +21,8 @@
 
 ## Databases
 
-- Mysql (leetcode)
-- Mongodb
+- sql | [Theory](https://www.w3schools.com/sql/sql_intro.asp) | [practise](https://www.w3resource.com/sql-exercises/)
+- Mongodb | [Theory]()|[practise]()
 
 ## AWS Services
 - [EC2](https://medium.com/edureka/aws-ec2-tutorial-16583cc7798e)
