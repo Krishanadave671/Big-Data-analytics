@@ -30,6 +30,7 @@
 - EMR
 - Kinesis
 - Snow
+- [S3](https://medium.com/edureka/s3-aws-amazon-simple-storage-service-aa71c664b465)
 - opensearch
 - Glue
 - [Lamda](https://medium.com/edureka/aws-lambda-tutorial-cadd47fbd39b)
