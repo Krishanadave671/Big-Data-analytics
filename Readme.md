@@ -13,9 +13,8 @@
 - Matplotlib
 
 ## Algorithms
-
+- ETL process Architechture using Aws 
 - Mapreduce
--
 
 ## frameworks & softwares
 - Apache Hadoop
