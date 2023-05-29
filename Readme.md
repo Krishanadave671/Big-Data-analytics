@@ -26,7 +26,7 @@
 - Mongodb
 
 ## AWS Services
-
+- [EC2](https://medium.com/edureka/aws-ec2-tutorial-16583cc7798e)
 - EMR
 - Kinesis
 - Snow
@@ -35,7 +35,6 @@
 - Lamda
 - Redshift
 - lamda
-- EC2
 - Ebs
 
 ## Documentations/Resources/Books
