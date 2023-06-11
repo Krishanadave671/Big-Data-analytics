@@ -30,9 +30,11 @@
 - [S3](https://medium.com/edureka/s3-aws-amazon-simple-storage-service-aa71c664b465)
 - [lamda](https://medium.com/edureka/aws-lambda-tutorial-cadd47fbd39b)
 - [RDS](https://medium.com/edureka/rds-aws-tutorial-for-aws-solution-architects-eec7217774dd)
+- [terraform](https://developer.hashicorp.com/terraform/docs)
 - EMR
 - Kinesis
 - Snow
+- [cloudWatch](https://youtu.be/G4_ay2_h9GI)
 - opensearch
 - Glue
 - Redshift
